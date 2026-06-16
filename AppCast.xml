@@ -6,8 +6,8 @@
     <language>en</language>
     <item>
       <title>Version 1.0.1</title>
-      <pubDate>Fri, 12 Jun 2026 09:04:49 +0900</pubDate>
-      <enclosure url="https://github.com/ksw11469/HarmonyGuide/releases/download/1.0.1/HarmonyGuideSetup-1.0.1.24.exe" sparkle:version="1.0.1.24" sparkle:shortVersionString="1.0.1" sparkle:edSignature="GfonED9Xl14wr11FzFOO1Onstg0FXlwqAAHgM3XCTkG4DZ5gOBmmLsD80ogPmxob/jgN+8BPmjsiOIB+I6h7CQ==" sparkle:os="windows" length="17683014" type="application/octet-stream" />
+      <pubDate>Fri, 12 Jun 2026 09:06:59 +0900</pubDate>
+      <enclosure url="https://github.com/ksw11469/HarmonyGuide/releases/download/1.0.1.25/HarmonyGuideSetup-1.0.1.25.exe" sparkle:version="1.0.1.25" sparkle:shortVersionString="1.0.1" sparkle:signature="c2f2WhXm2XkFdZiDpvT7AVyVLKMLaOqpEBqdfu1yfRYpHq94tneIfscUOG526oOznF1G1dUFqN60YsrxHrowBg==" sparkle:os="windows" length="17683452" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
