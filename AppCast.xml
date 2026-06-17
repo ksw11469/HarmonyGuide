@@ -5,9 +5,9 @@
     <description>HarmonyGuide update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1</title>
-      <pubDate>Fri, 12 Jun 2026 09:06:59 +0900</pubDate>
-      <enclosure url="https://github.com/ksw11469/HarmonyGuide/releases/download/1.0.1.25/HarmonyGuideSetup-1.0.1.25.exe" sparkle:version="1.0.1.25" sparkle:shortVersionString="1.0.1" sparkle:signature="c2f2WhXm2XkFdZiDpvT7AVyVLKMLaOqpEBqdfu1yfRYpHq94tneIfscUOG526oOznF1G1dUFqN60YsrxHrowBg==" sparkle:os="windows" length="17683452" type="application/octet-stream" />
+      <title>Version 1.0.1.32</title>
+      <pubDate>Wed, 17 Jun 2026 10:58:15 +0900</pubDate>
+      <enclosure url="https://github.com/ksw11469/HarmonyGuide/releases/download/1.0.1.32/HarmonyGuideSetup-1.0.1.32.exe" sparkle:version="1.0.1.32" sparkle:shortVersionString="1.0.1.32" sparkle:edSignature="TXpbTemMmczqmVPagGaZqyYFA8Egij633P+HeEz+1R2VVWRYPRm39KzCtTtlJeNJ8I5uDl9rImGbN5z7wEOoCg==" sparkle:os="windows" length="16642928" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
